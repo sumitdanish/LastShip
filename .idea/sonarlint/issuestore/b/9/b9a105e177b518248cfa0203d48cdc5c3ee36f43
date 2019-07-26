@@ -1,0 +1,10 @@
+
+Isquid:S1481""+Remove this unused "string" local variable.(°û×Õ8¶Ïİ½º-
+[
+squid:S106@"9Replace this use of System.out or System.err by a logger.(Î€Ñúÿÿÿÿÿ8×¾Ã¾º-
+2squid:S1700"Rename field "graph"(¯·ì8ğùÒ½º-
+Fsquid:S1481"(Remove this unused "src" local variable.(ù’–’8·Ú‡¾º-
+Jsquid:S1068"'Remove this unused "set" private field.(š³Úˆøÿÿÿÿ8ğùÒ½º-
+[
+squid:S106O"9Replace this use of System.out or System.err by a logger.(•ÿ€úÿÿÿÿ8Şƒ½½º-
+nsquid:CommentedOutCodeLineD"<This block of commented-out lines of code should be removed.(‹²¹ûÿÿÿÿ8±è¬¿º-

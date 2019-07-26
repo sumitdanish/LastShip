@@ -1,0 +1,8 @@
+
+[squid:UselessImportCheck"0Remove this unused import 'java.io.InputStream'.(πª∫ù8Ÿ‚ôø∫-
+[
+squid:S106<"9Replace this use of System.out or System.err by a logger.(ˆé–ù˛ˇˇˇˇ8Ëœç¿∫-
+V
+squid:S106M"9Replace this use of System.out or System.err by a logger.(∞≠¢¢8·ƒ£¿∫-
+Osquid:S1172]",Remove this unused method parameter "graph".(î‘åöˇˇˇˇˇ8Ëœç¿∫-
+ssquid:S1149G"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(˚õ˛ˆ˝ˇˇˇˇ8Ëœç¿∫-

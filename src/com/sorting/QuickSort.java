@@ -1,8 +1,15 @@
-package com;
+package com.sorting;
+
+import java.util.stream.Stream;
 
 public class QuickSort {
   public static void main(String[] args) {
     //
+    int[] a = {12, 11, 13, 5, 6, 7,-9,342,1,-90};
+    quickSort(a,0,a.length-1);
+    for (int l : a){
+      System.out.println(l);
+    }
   }
 
   private static void quickSort(int[] a, int low, int high) {
